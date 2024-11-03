@@ -1,2 +1,2 @@
-# Power-Market-Trading-Model-with-ARIMA-
-Power Market Trading Model with ARIMA 
+# Power-Market-Trading-Model
+Power Market Trading Model
